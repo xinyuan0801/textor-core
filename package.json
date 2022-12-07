@@ -1,0 +1,19 @@
+{
+  "name": "textor-core",
+  "version": "0.0.1",
+  "description": "core logic of textor.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinyuan0801/textor-core.git"
+  },
+  "author": "wxy0801",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinyuan0801/textor-core/issues"
+  },
+  "homepage": "https://github.com/xinyuan0801/textor-core#readme"
+}
